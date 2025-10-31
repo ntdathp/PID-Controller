@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/84984/Documents/GitHub/PID_Controller/Core/UserCode/Motor",
-      "program": "c:/Users/84984/Documents/GitHub/PID_Controller/Core/UserCode/Motor/build/Debug/outDebug",
+      "cwd": "c:/Users/84984/Documents/STM32F4/Turning/Core/Src",
+      "program": "c:/Users/84984/Documents/STM32F4/Turning/Core/Src/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
